@@ -1,0 +1,13 @@
+[
+  { "city": "Los Angeles", "text": "Inventory up 4% • Seller credits common under $1M" },
+  { "city": "Los Angeles", "text": "Pending sales rise 3% • Buyers push back on pricing" },
+  { "city": "Orange County", "text": "Median ~$1.2M • Buyers favor 2-1 buydowns" },
+  { "city": "Orange County", "text": "Coastal listings steady • South County new builds moving" },
+  { "city": "Riverside", "text": "Flip margins hold • Private money closings in <10 days" },
+  { "city": "Riverside", "text": "Entry-level SFRs bid fast • Appraisals lag behind demand" },
+  { "city": "San Bernardino", "text": "Affordability draw • Multiple offers under $500k" },
+  { "city": "San Diego", "text": "Luxury coastal market steady • Sellers firm on pricing" },
+  { "city": "Ventura", "text": "New listings tick up • Mid-range homes spark 2–3 offers" },
+  { "city": "Inland Empire", "text": "Build-to-rent demand grows • Cap rates flatten" },
+  { "city": "San Fernando Valley", "text": "Condos heat up • FHA mix rises" }
+]
