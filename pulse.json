@@ -1,1 +1,26 @@
-
+[
+  {
+    "city": "Los Angeles",
+    "text": "Inventory up 5% • Sellers leaning on credits to close deals"
+  },
+  {
+    "city": "Orange County",
+    "text": "Median price steady at $1.2M • Buyers favoring buydowns"
+  },
+  {
+    "city": "Riverside",
+    "text": "Fix & flip demand strong • Private money deals closing in 10 days"
+  },
+  {
+    "city": "San Bernardino",
+    "text": "Entry-level homes moving fast • Inland affordability draws buyers"
+  },
+  {
+    "city": "San Diego",
+    "text": "Luxury coastal market steady • Sellers holding firm on pricing"
+  },
+  {
+    "city": "Ventura",
+    "text": "New listings tick up • Mid-range homes sparking multiple offers"
+  }
+]
