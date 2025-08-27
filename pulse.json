@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Los Angeles",
+    "text": "Inventory rose 5% this week. Sellers offering credits to close deals quickly.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline.jpg"
+  },
+  {
+    "city": "Orange County",
+    "text": "Median price steady at $1.2M. Buyers gaining leverage with buydowns.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Huntington_Beach_Pier.jpg"
+  },
+  {
+    "city": "Riverside",
+    "text": "Fix & flip demand strong. Private money deals closing in 10 days.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Riverside_City_Hall.jpg"
+  },
+  {
+    "city": "San Bernardino",
+    "text": "Entry-level homes moving fast as affordability draws buyers inland.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/San_Bernardino_downtown.jpg"
+  },
+  {
+    "city": "San Diego",
+    "text": "Luxury market steady. Sellers holding firm on pricing near the coast.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/San_Diego_Skyline_Day.jpg"
+  },
+  {
+    "city": "Ventura",
+    "text": "New listings ticked up. Mid-range homes seeing multiple offers again.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ventura_City_Hall.jpg"
+  }
+]
