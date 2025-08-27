@@ -1,0 +1,30 @@
+name: Update Pulse Daily
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # Runs every day at 6:00 AM PT (14:00 UTC)
+  workflow_dispatch:       # Allow manual run from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm i dayjs
+
+      - name: Generate today's pulse.json
+        run: node .github/scripts/generate.js
+
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily pulse update"
+          file_pattern: pulse.json
