@@ -1,0 +1,7 @@
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily pulse update"
+          file_pattern: data/pulse.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
